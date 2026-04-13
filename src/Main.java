@@ -10,6 +10,11 @@ public class Main {
 
 
         //MENU
+        System.out.println("-------PROGRAMA DE BANCO-------");
+        System.out.println("1. Mostrar Saldo.");
+        System.out.println("2. Depositar na Conta.");
+        System.out.println("3. Realizar saque.");
+        System.out.println("4. Sair.");
 
         // Escolhas do usuario
 
